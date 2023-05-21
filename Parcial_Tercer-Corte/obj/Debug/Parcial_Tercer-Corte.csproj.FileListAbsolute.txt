@@ -1,0 +1,11 @@
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\bin\Debug\Parcial_Tercer-Corte.exe.config
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\bin\Debug\Parcial_Tercer-Corte.exe
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\bin\Debug\Parcial_Tercer-Corte.pdb
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\obj\Debug\Parcial_Tercer-Corte.csproj.AssemblyReference.cache
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\obj\Debug\Parcial_Tercer-Corte.csproj.SuggestedBindingRedirects.cache
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\obj\Debug\Parcial_Tercer_Corte.Form1.resources
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\obj\Debug\Parcial_Tercer_Corte.Properties.Resources.resources
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\obj\Debug\Parcial_Tercer-Corte.csproj.GenerateResource.cache
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\obj\Debug\Parcial_Tercer-Corte.csproj.CoreCompileInputs.cache
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\obj\Debug\Parcial_Tercer-Corte.exe
+C:\Users\hans2\source\repos\Parcial_Tercer-Corte\Parcial_Tercer-Corte\obj\Debug\Parcial_Tercer-Corte.pdb
